@@ -24,7 +24,7 @@ Tarkovsky is close — I would say more than close. Tarkovsky is a peer of Kieś
 
 > Handlicher I would never rate. I mean I've seen his films, they're horrible normally, they're totally dark. Keselowski always has a beautiful moral centre. By the way, I would like if you recorded, like captured my transcription, maybe tied it up and my notes actually verbatim because they're quite good and they're useful as we go along. Maybe just into a log file for today. So first the question about Keselowski and then my commentary. Also Villeneuve is very elegantly staged but it's very… there's a lack of the humanism that I feel at least that I've seen in Villeneuve. Tarkovsky is close… I would say more than close. Toskopsky is a peer of Keselowski
 
-(Note: dictation — "Handlicher" = Haneke, "Keselowski"/"Toskopsky" = Kieślowski/Tarkovsky.)
+(Mis-transcriptions in raw dictation, e.g. "Handlicher" = Haneke, "Keselowski" = Kieślowski, "Toskopsky" = Tarkovsky.)
 
 ## Takeaways for future picks
 
