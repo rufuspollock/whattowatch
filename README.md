@@ -10,6 +10,8 @@ Backed by an open, structured database of films (open dataset or scraped from Wi
 
 Source idea: `~/src/me/planning/ideas/tonights-film-picker.md`. Earlier root idea (2016, neural-net movie matrix): `~/src/me/notebook/ideas/README.md`.
 
+See [`data.md`](data.md) for research on open movie/TV data sources.
+
 ## Plan
 
 1. **v0 (now):** Interactive CLI session, no persistence, small hardcoded/manual film list — just pick via pairwise comparison, mark "seen" to skip.
