@@ -16,6 +16,10 @@ Film/TV data sourced from TMDB. See `data.md` for source research and `docs/plan
 
 Never commit API keys, tokens, or `.env` files with secrets to this repo.
 
+## Skills
+
+- `skills/watch-tonight/SKILL.md` — Claude Code skill for picking tonight's film or logging a watched one (reads/writes `ratings.md` and `notes/`).
+
 ## Docs
 
 - `README.md` — project idea and plan
