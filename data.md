@@ -5,6 +5,8 @@ Research on open, structured film/TV databases to back the picker. Moved in from
 ## Candidates
 
 - **TMDB (The Movie Database)** — best candidate so far. Broad coverage, API-friendly license. Used by major platforms like Letterboxd (see https://letterboxd.com/about/film-data/). License terms: https://www.themoviedb.org/talk/54f41aafc3a3683455000991. Full dump available on Kaggle, covers through 2024: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
+  - **Daily bulk export**: `files.tmdb.org/p/exports/` — gzip'd JSON-lines files of movie/tv/person IDs + popularity, updated daily. IDs only, not full metadata — useful for a complete ID list but not for filtering by release status/language/date, so not used for our sync (see `docs/plans/` for the sync design).
+  - **API `/discover/movie`**: supports server-side filters (release date range, original language, release status, vote count, etc.) — this is what we use for the filtered sync.
 - **IMDB** — large database but restrictive licensing. Non-commercial datasets: https://developer.imdb.com/non-commercial-datasets/. Needs separate documentation of licensing/access before use.
 - **Wikidata / Wikipedia dumps** — not yet evaluated.
 
