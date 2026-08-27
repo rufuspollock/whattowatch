@@ -18,7 +18,7 @@ DATA_DIR = pathlib.Path(__file__).resolve().parent.parent / "data"
 
 VOTE_COUNT_MIN = 300
 RUNTIME_MIN = 40
-YEARS_BACK = 5
+YEARS_BACK = 10
 
 
 def load_token():

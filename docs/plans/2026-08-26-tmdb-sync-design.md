@@ -6,9 +6,9 @@ Pull a filtered, curated slice of TMDB movies into this repo as the data backbon
 
 - Movies only (no TV yet)
 - English original language (`with_original_language=en`) — non-English deferred; vote_count alone doesn't reliably exclude Bollywood/anime (checked live: more non-English films clear vote_count≥800 than English films clear vote_count≥300), so a real curation approach (e.g. award-submission based) is needed first. Tracked in `data.md`.
-- Last 5 years, rolling window computed at sync time
+- Last 10 years, rolling window computed at sync time (widened from 5yr on 2026-08-27 — was ~1,024 films, now ~2,511)
 - `with_runtime.gte=40` (excludes shorts)
-- `vote_count.gte=300` — tunable constant, currently yields ~1,170 films (~235/yr)
+- `vote_count.gte=300` — tunable constant
 
 ## Pipeline
 
