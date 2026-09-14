@@ -16,6 +16,7 @@ Films/series I've seen, with my rating (out of 10) and notes. Used as input for 
 - Your Name (2016, film) — picked 2026-08-04. Started 2026-08-26, not grabbed yet, may return to it. Not rated.
 - The French Dispatch (2021, film) — half-watched as of 2026-08-26, liked it so far, needs finishing. Wes Anderson.
 - Isle of Dogs (2018, film) — added to list 2026-08-26, unseen, Wes Anderson.
+- Peggy Sue Got Married (1986, film) — added to list 2026-09-14, unseen. Rotten Tomatoes: 88% Tomatometer (32 reviews); Metacritic: 75/100 (15 critic reviews).
 
 ## Currently watching
 
